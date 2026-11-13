@@ -8,7 +8,7 @@ import json
 import time
 
 
-GEMINI_API_KEY = "AIzaSyCtgGzICwY1aHwGfap4AxhmS8rtRZbKQnc"
+GEMINI_API_KEY = "**" // add your gemini key
 
 
 app = Flask(__name__)
